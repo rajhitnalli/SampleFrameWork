@@ -8,8 +8,8 @@ public class Sample1 {
 	public void m1()
 	{
 		System.out.println("sample1 executed");
-		//from git for pull
-		//from  eclipes for 2nd push
-		//masn as
+		//from eclips to git for push
+		//from gti to eclips for pull
+		
 	}
 }
